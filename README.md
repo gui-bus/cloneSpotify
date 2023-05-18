@@ -8,7 +8,7 @@
 
 
 ## Descrição :page_with_curl:
-Este projeto é um clone da página inicial do Spotify, desenvolvido para treinar o uso do Tailwind CSS e aprimorar habilidades de design e desenvolvimento front-end. O objetivo foi replicar a aparência e algumas funcionalidades básicas do Spotify original. <br><br>
+Este projeto é um clone da página inicial do Spotify, desenvolvido para treinar o uso do Tailwind CSS e aprimorar habilidades de design e desenvolvimento front-end. :books: <br> O objetivo foi replicar a aparência e algumas funcionalidades básicas do Spotify original. <br><br>
 Veja abaixo algumas de suas características:
 - Layout responsivo que se adapta a diferentes tamanhos de tela e dispositivos.
 - Estilo e design semelhantes à página inicial do Spotify original.
@@ -50,4 +50,11 @@ Muito obrigado! :rocket:
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/guibus_dev/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/guibus_dev/)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:guibus.dev@gmail.com)
+
+***
+
+## Aviso :warning:
+Este projeto é apenas para fins educacionais e não está afiliado ou endossado pelo Spotify. O uso deste projeto é de sua responsabilidade.
+
+**Divirta-se explorando o clone do Spotify!** :musical_note:
 
