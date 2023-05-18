@@ -41,6 +41,7 @@ Gostaria de contribuir para o projeto? Fico muito grato pelo interesse!
 Gostaria de expressar minha gratidão às seguintes fontes por sua contribuição para a criação deste projeto:
 - Ao **[Spotify](https://www.spotify.com/br-pt/premium/)** por fornecer uma ótima referência visual e inspiração para este projeto de clone. <br><br>
 - Ao professor **[Matheus Battisti](https://www.instagram.com/horadecodar/)** por fornecer os ensinamentos sobre Tailwind CSS.
+<br><br>
 Muito obrigado! :rocket:
 
 ***
